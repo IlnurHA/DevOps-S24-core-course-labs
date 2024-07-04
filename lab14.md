@@ -20,6 +20,7 @@ In this lab, you will explore Kubernetes cluster monitoring using Prometheus wit
     - Install your app's Helm chart.
     - Provide the output of the `kubectl get po,sts,svc,pvc,cm` command in the report and explain each part.
 
+
 4. Utilize Grafana Dashboards:
     - Access Grafana using `minikube service monitoring-grafana`.
     - Explore existing dashboards to find information about your cluster:
